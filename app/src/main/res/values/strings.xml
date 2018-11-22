@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat Now</string>
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="title_activity_home">Chat Now</string>
+    <string name="title_chat">My Chats</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_friends">My Friends</string>
+    <string name="title_settings">Settings</string>
+</resources>
